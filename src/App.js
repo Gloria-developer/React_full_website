@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import './App.css';
 import Navbar from "./Components/Navbar";
-import Footer from './Components/Footer';
+import Footer from './Components/Footer.js';
 
 // Sections
 import Home from './routes/Home';
@@ -116,7 +116,6 @@ function App() {
           }
         />
       </Routes>
-
       <Footer />
     </div>
   );

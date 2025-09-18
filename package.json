@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "home": "https://Gloria-developer.github.io/React_full_website",
+  "homepage": "https://Gloria-developer.github.io/React_full_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
