@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_full_website/static/css/main.d966c415.css",
+    "main.js": "/React_full_website/static/js/main.9afd5979.js",
+    "static/media/blog-image2.png": "/React_full_website/static/media/blog-image2.ed15b2438b0112213ebf.png",
+    "static/media/blog-image1.png": "/React_full_website/static/media/blog-image1.dd930c70484eedd17bd4.png",
+    "static/media/home-banner-image.png": "/React_full_website/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/React_full_website/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/Meal-Transparent-Images.png": "/React_full_website/static/media/Meal-Transparent-Images.69c687c8d89cec9b94eb.png",
+    "static/media/home-banner-background.png": "/React_full_website/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/hero-banner.jpg": "/React_full_website/static/media/hero-banner.971220612c78055f2e76.jpg",
+    "static/media/Logo.svg": "/React_full_website/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/React_full_website/index.html",
+    "main.d966c415.css.map": "/React_full_website/static/css/main.d966c415.css.map",
+    "main.9afd5979.js.map": "/React_full_website/static/js/main.9afd5979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d966c415.css",
+    "static/js/main.9afd5979.js"
+  ]
+}
